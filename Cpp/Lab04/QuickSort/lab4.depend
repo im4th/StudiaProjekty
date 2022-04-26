@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619449737 source:d:\zajêcia\pliki zajêæ\algorytmika\lab04\quicksort\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+

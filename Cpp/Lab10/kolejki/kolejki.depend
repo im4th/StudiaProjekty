@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623669177 source:d:\zajêcia\pliki zajêæ\algorytmika\lab10\kolejki\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+

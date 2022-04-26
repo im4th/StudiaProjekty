@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1619508762 source:d:\zajêcia\pliki zajêæ\algorytmika\lab07\wyszukiwanie\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<stdlib.h>
+	<sstream>
+	<istream>
+	<fstream>
+

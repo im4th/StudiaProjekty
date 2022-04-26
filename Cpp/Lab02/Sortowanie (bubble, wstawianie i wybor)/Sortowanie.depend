@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619783949 source:d:\programowanie\algorytm\sortowanie\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1619784699 source:d:\zajêcia\pliki zajêæ\algorytmika\lab02\sortowanie (bubble, wstawianie i wybor)\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

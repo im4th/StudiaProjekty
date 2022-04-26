@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623678905 source:d:\zajêcia\pliki zajêæ\algorytmika\lab09\stosy\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+

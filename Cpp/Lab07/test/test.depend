@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619449401 source:d:\zajêcia\pliki zajêæ\algorytmika\lab07\test\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<vector>
+

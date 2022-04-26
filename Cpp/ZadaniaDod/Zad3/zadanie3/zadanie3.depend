@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624341162 source:d:\zajêcia\pliki zajêæ\algorytmika\popkol1\zad3\zadanie3\main.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
