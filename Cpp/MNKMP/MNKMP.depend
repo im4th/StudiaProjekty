@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637656969 source:c:\users\student.win-b7opo92uo3q\documents\mnkmp\main.cpp
+	<iostream>
+
+1637842135 source:d:\pliki studia\cpp\mnkmp\main.cpp
+	<iostream>
+	<cmath>
+
