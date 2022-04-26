@@ -1,0 +1,11 @@
+#include "Tpracownik."
+
+Tpracownik::Tpracownik()
+{
+    //ctor
+}
+
+Tpracownik::~Tpracownik()
+{
+    //dtor
+}

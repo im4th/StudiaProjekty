@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1618587029 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\main.cpp
+	<iostream>
+	"Tosoba.h"
+	"Tstudent.h"
+	"Tpracownik.h"
+	"TpracownikFizyczny.h"
+	"TpracownikUmyslowy.h"
+	<math.h>
+
+1618576887 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\src\tosoba.cpp
+	"Tosoba.h"
+	<string>
+	<iostream>
+
+1618397828 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\include\tosoba.h
+	<string>
+	<iostream>
+
+1618576665 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1618575132 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\include\tstudent.h
+	<vector>
+	<Tosoba.h>
+
+1618577132 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+
+1618579525 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\include\tpracownik.h
+	<Tosoba.h>
+
+1618587278 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\src\tpracownikfizyczny.cpp
+	"TpracownikFizyczny.h"
+	<math.h>
+
+1618586949 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\include\tpracownikfizyczny.h
+	<Tpracownik.h>
+
+1618587305 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\src\tpracownikumyslowy.cpp
+	"TpracownikUmyslowy.h"
+
+1618586802 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednokrotne\include\tpracownikumyslowy.h
+	<Tpracownik.h>
+
+1619627178 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\main.cpp
+	<iostream>
+	"Tosoba.h"
+	"Tstudent.h"
+	"Tpracownik.h"
+	"TpracownikFizyczny.h"
+	"TpracownikUmyslowy.h"
+	<math.h>
+
+1618397828 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\include\tosoba.h
+	<string>
+	<iostream>
+
+1618575132 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\include\tstudent.h
+	<vector>
+	<Tosoba.h>
+
+1618579525 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\include\tpracownik.h
+	<Tosoba.h>
+
+1618586949 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\include\tpracownikfizyczny.h
+	<Tpracownik.h>
+
+1618586802 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\include\tpracownikumyslowy.h
+	<Tpracownik.h>
+
+1618576887 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\src\tosoba.cpp
+	"Tosoba.h"
+	<string>
+	<iostream>
+
+1618577132 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+
+1618587278 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\src\tpracownikfizyczny.cpp
+	"TpracownikFizyczny.h"
+	<math.h>
+
+1618587305 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\src\tpracownikumyslowy.cpp
+	"TpracownikUmyslowy.h"
+
+1618576665 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab05\dziedziczenie\dziedziczenie jednorodne\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+

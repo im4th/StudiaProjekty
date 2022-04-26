@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1615482152 source:c:\users\matpik\desktop\programowanieobiektowe\lab02\pracadomowa\main.cpp
+	<iostream>
+	<cstdlib>
+	"Tpracownik.h"
+	"Tdzialania.h"
+	"Tstudent.h"
+
+1615479061 c:\users\matpik\desktop\programowanieobiektowe\lab02\pracadomowa\include\tpracownik.h
+
+1615479222 source:c:\users\matpik\desktop\programowanieobiektowe\lab02\pracadomowa\src\tpracownik.cpp
+	"Tpracownik.h"
+	<cstdlib>
+	<iostream>
+
+1615480390 c:\users\matpik\desktop\programowanieobiektowe\lab02\pracadomowa\include\tdzialania.h
+
+1615481015 source:c:\users\matpik\desktop\programowanieobiektowe\lab02\pracadomowa\src\tdzialania.cpp
+	"Tdzialania.h"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+
+1615482118 c:\users\matpik\desktop\programowanieobiektowe\lab02\pracadomowa\include\tstudent.h
+
+1615482266 source:c:\users\matpik\desktop\programowanieobiektowe\lab02\pracadomowa\src\tstudent.cpp
+	"Tstudent.h"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+

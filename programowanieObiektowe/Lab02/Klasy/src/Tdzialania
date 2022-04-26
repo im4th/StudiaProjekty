@@ -1,0 +1,6 @@
+#include "Tdzialania."
+
+Tdzialania::Tdzialania()
+{
+    //ctor
+}

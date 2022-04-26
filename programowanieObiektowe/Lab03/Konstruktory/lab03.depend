@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\matpik\desktop\algorytmika\lab03\lab03\main.cpp
+	<iostream>
+
+1584205420 source:c:\users\matpik\desktop\programowanieobiektowe\lab03\main.cpp
+	<iostream>
+
+1616327404 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\konstruktory\main.cpp
+	<iostream>
+	"Tosoba.h"
+
+1616327404 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\konstruktory\src\tosoba.cpp
+	"Tosoba.h"
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

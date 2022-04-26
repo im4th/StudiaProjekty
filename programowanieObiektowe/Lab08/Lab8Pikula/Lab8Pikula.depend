@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620819766 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab08\lab8pikula\main.cpp
+	<iostream>
+	<string>
+	"Tdomownik.h"
+
+1620819737 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab08\lab8pikula\include\tdomownik.h
+	<string>
+
+1620819737 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab08\lab8pikula\src\tdomownik.cpp
+	"Tdomownik.h"
+	<string>
+	<iostream>
+

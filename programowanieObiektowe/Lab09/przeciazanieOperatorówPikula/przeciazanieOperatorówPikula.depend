@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621425547 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab09\przeciazanieoperatorówpikula\main.cpp
+	<iostream>
+	"Ttime.h"
+	<iomanip>
+
+1621423026 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab09\przeciazanieoperatorówpikula\src\ttime.cpp
+	"Ttime.h"
+
+1621424898 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab09\przeciazanieoperatorówpikula\include\ttime.h
+	<iostream>
+

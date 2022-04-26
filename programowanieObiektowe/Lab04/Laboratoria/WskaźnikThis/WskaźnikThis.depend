@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1617886310 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab04\laboratoria\wskaŸnikthis\main.cpp
+	<iostream>
+	"Tdata.h"
+	"Tosoba2.h"
+	"TosobaS.h"
+
+1617882296 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab04\laboratoria\wskaŸnikthis\src\tdata.cpp
+	"Tdata.h"
+	<iostream>
+
+1617875148 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab04\laboratoria\wskaŸnikthis\include\tdata.h
+
+1617882157 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab04\laboratoria\wskaŸnikthis\src\tosoba2.cpp
+	"Tosoba2.h"
+	<string>
+
+1618221163 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab04\laboratoria\wskaŸnikthis\include\tosoba2.h
+	<string>
+	"Tdata.h"
+	<iostream>
+
+1617886072 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab04\laboratoria\wskaŸnikthis\src\tosobas.cpp
+	"TosobaS.h"
+	<iostream>
+
+1617883694 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab04\laboratoria\wskaŸnikthis\include\tosobas.h
+

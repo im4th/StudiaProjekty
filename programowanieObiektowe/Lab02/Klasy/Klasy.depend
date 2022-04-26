@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1615379920 source:c:\users\matpik\desktop\programowanieobiektowe\lab02\klasy\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale>
+	"Tdzialania.h"
+
+1615378826 source:c:\users\matpik\desktop\programowanieobiektowe\lab02\klasy\src\tpracownik.cpp
+	"Tpracownik.h"
+
+1615378566 c:\users\matpik\desktop\programowanieobiektowe\lab02\klasy\include\tpracownik.h
+
+1615379402 c:\users\matpik\desktop\programowanieobiektowe\lab02\klasy\include\tdzialania.h
+

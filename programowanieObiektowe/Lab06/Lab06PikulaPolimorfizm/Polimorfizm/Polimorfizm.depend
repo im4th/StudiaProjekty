@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1619626734 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\main.cpp
+	<iostream>
+	"Tinstrument.h"
+	"Ttrabka.h"
+	"Tskrzypce.h"
+	"Tfigura.h"
+	"Tkolo.h"
+	"Tkwadrat.h"
+	"Tprostokat.h"
+
+1619004048 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\src\tinstrument.cpp
+	"Tinstrument.h"
+	<string>
+	<iostream>
+
+1619003735 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\include\tinstrument.h
+	<string>
+
+1619004034 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\src\tskrzypce.cpp
+	"Tskrzypce.h"
+	<string>
+	<iostream>
+
+1619001720 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\include\tskrzypce.h
+	<Tinstrument.h>
+
+1619005311 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\src\ttrabka.cpp
+	"Ttrabka.h"
+	<string>
+	<iostream>
+
+1619003308 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\include\ttrabka.h
+	<Tinstrument.h>
+
+1619284278 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\src\tfigura.cpp
+	"Tfigura.h"
+	<string>
+	<iostream>
+
+1619284768 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\include\tfigura.h
+	<string>
+
+1619284689 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\src\tkwadrat.cpp
+	"Tkwadrat.h"
+	<string>
+	<iostream>
+	<cmath>
+
+1619284768 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\include\tkwadrat.h
+	<string>
+	<Tprostokat.h>
+
+1619284768 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\include\tprostokat.h
+	<string>
+	<Tfigura.h>
+
+1619284635 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\src\tprostokat.cpp
+	"Tprostokat.h"
+	<string>
+	<iostream>
+
+1619284689 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\src\tkolo.cpp
+	"Tkolo.h"
+	<string>
+	<iostream>
+	<cmath>
+
+1619284768 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab06\lab06pikulapolimorfizm\polimorfizm\include\tkolo.h
+	<string>
+	<Tfigura.h>
+

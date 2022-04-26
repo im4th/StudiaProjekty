@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1616330823 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\pracadomowa\src\tosoba.cpp
+	"Tosoba.h"
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1616329849 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\pracadomowa\include\tosoba.h
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1616329718 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\pracadomowa\main.cpp
+	<iostream>
+	"Tosoba.h"
+	"Ttrojkat.h"
+
+1616333278 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\pracadomowa\include\ttrojkat.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1616333592 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\pracadomowa\src\ttrojkat.cpp
+	"Ttrojkat.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

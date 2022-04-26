@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1619640272 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\labolatorium04\main.cpp
+	<iostream>
+	"Tdata.h"
+	"Tosoba2.h"
+
+1616590640 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\labolatorium04\src\tdata.cpp
+	"Tdata.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1616590590 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\labolatorium04\include\tdata.h
+
+1619640178 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\labolatorium04\src\tosoba2.cpp
+	"Tosoba2.h"
+	<string>
+	<iostream>
+	"Tdata.h"
+	"Tosoba2.h"
+
+1616593261 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab03\pracadomowa\labolatorium04\include\tosoba2.h
+	<string>
+	<iostream>
+	"Tdata.h"
+

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1619697436 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\main.cpp
+	<iostream>
+	"Tdokument.h"
+	"Tfaktura.h"
+
+1619697238 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\src\tdokument.cpp
+	"Tdokument.h"
+	<string>
+	<iostream>
+
+1619628219 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\include\tdokument.h
+	<string>
+	<string>
+
+1619697042 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\src\tfaktura.cpp
+	"Tfaktura.h"
+	<string>
+	<iostream>
+	"Ttowar.h"
+	"Tklient.h"
+
+1619692980 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\include\tfaktura.h
+	<Tdokument.h>
+	"Ttowar.h"
+	"Tklient.h"
+
+1619693720 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\src\ttowar.cpp
+	"Ttowar.h"
+	<string>
+	<iostream>
+
+1619693120 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\include\ttowar.h
+	<iostream>
+
+1619692321 source:d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\src\tklient.cpp
+	"Tklient.h"
+	<string>
+	<iostream>
+	"Tklient.h"
+	<string>
+	<iostream>
+
+1619637577 d:\zajêcia\pliki zajêæ\programowanieobiektowe\lab07\zwiazki pomiedzy klasami\zwiazkilab07pikula\include\tklient.h
+	<iostream>
+	<iostream>
+

@@ -1,0 +1,16 @@
+#ifndef TPRACOWNIK_
+#define TPRACOWNIK_
+
+
+class Tpracownik
+{
+    public:
+        Tpracownik();
+        virtual ~Tpracownik();
+
+    protected:
+
+    private:
+};
+
+#endif // TPRACOWNIK_
